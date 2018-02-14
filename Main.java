@@ -24,7 +24,7 @@ public class Main {
             if (a == '0') {
                 a = 0;
             } else if (a == '1') {
-                a = 1;
+2                a = 1;
             } else if (a == '2') {
                 a = 2;
             } else if (a == '3') {
@@ -63,7 +63,7 @@ public class Main {
 
         System.out.println("Your number is " + sum + " in decimal");
         
-        //hello
+        //hello2
 
 
     }
